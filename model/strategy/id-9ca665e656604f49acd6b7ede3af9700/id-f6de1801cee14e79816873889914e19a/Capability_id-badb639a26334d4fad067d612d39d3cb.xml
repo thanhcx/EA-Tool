@@ -1,0 +1,19 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="15.1.1.1 Business Analysis"
+    id="id-badb639a26334d4fad067d612d39d3cb">
+  <properties
+      key="Applications Mapping"/>
+  <properties
+      key="Capability Owner"
+      value="TT VHCN"/>
+  <properties
+      key="Capacity Level"
+      value="L3"/>
+  <properties
+      key="Published Author"
+      value="Thanhcx2"/>
+  <properties
+      key="Published Date"
+      value="1/1/2023"/>
+</archimate:Capability>

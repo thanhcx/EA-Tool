@@ -1,0 +1,19 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NetApp"
+    id="id-d9b6ac79929e496295949a90e79f6110">
+  <properties
+      key="Storage Vendor"/>
+  <properties
+      key="Storage Class"/>
+  <properties
+      key="Storage Type "/>
+  <properties
+      key="Storage Software "/>
+  <properties
+      key="Warranty Period"/>
+  <properties
+      key="IP Address"/>
+  <properties
+      key="Purchase Date"/>
+</archimate:Device>

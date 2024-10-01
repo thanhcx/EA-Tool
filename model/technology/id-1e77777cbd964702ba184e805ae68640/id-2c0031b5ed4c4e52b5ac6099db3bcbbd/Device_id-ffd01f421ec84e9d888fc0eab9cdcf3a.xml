@@ -1,0 +1,19 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DR FS9150 "
+    id="id-ffd01f421ec84e9d888fc0eab9cdcf3a">
+  <properties
+      key="Storage Vendor"/>
+  <properties
+      key="Storage Class"/>
+  <properties
+      key="Storage Software "/>
+  <properties
+      key="Storage Type "/>
+  <properties
+      key="IP Address"/>
+  <properties
+      key="Warranty Period"/>
+  <properties
+      key="Purchase Date"/>
+</archimate:Device>

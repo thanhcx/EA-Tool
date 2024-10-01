@@ -1,0 +1,37 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DC server 01"
+    id="id-63c06c92ca20448bbe58fc36634cf85f">
+  <properties
+      key="Server Vendor"/>
+  <properties
+      key="Server Platform"/>
+  <properties
+      key="Server Class"/>
+  <properties
+      key="Server Type"/>
+  <properties
+      key="Server Role"/>
+  <properties
+      key="IP Address"/>
+  <properties
+      key="Operatoring System"/>
+  <properties
+      key="Purchase Date"/>
+  <properties
+      key="IP Address"/>
+  <properties
+      key="Operating System"/>
+  <properties
+      key="Purchase Date"/>
+  <properties
+      key="Server Class"/>
+  <properties
+      key="Server Platform"/>
+  <properties
+      key="Server Role"/>
+  <properties
+      key="Server Type"/>
+  <properties
+      key="Server Vendor"/>
+</archimate:Device>

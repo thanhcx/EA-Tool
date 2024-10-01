@@ -1,0 +1,29 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DR Server 02"
+    id="id-53b937fdb90e416fb5d9bd53b3f80e1c">
+  <properties
+      key="Server Vendor"
+      value="IBM"/>
+  <properties
+      key="Server Platform"
+      value="Power System"/>
+  <properties
+      key="Server Class"
+      value="High End Server"/>
+  <properties
+      key="Server Role"/>
+  <properties
+      key="Server Type"
+      value="LPAR"/>
+  <properties
+      key="IP Address"/>
+  <properties
+      key="Operatoring System"
+      value="AIX v7.2"/>
+  <properties
+      key="Purchase Date"
+      value="09/2017"/>
+  <properties
+      key="Warranty Period"/>
+</archimate:Node>

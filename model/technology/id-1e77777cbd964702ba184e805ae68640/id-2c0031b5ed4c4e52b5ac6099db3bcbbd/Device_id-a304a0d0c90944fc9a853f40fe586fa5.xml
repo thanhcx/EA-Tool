@@ -1,0 +1,19 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IBM FS9150"
+    id="id-a304a0d0c90944fc9a853f40fe586fa5">
+  <properties
+      key="Storage Vendor"/>
+  <properties
+      key="Storage Class"/>
+  <properties
+      key="Storage Software "/>
+  <properties
+      key="Storage Type "/>
+  <properties
+      key="IP Address"/>
+  <properties
+      key="Warranty Period"/>
+  <properties
+      key="Purchase Date"/>
+</archimate:Device>

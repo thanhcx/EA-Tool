@@ -1,0 +1,23 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="15.1.3.Infrastructure Licensing"
+    id="id-7b01512f4a7c4a91950f9441ecbfd79d">
+  <properties
+      key="Capacity Level"
+      value="L2"/>
+  <properties
+      key="Applications Mapping"/>
+  <properties
+      key="Capability Owner"
+      value="TTVHCN"/>
+  <properties
+      key="Capability_Level"/>
+  <properties
+      key="Capacity Level"/>
+  <properties
+      key="Published Author"
+      value="Thanhcx2"/>
+  <properties
+      key="Published Date"
+      value="1/1/2023"/>
+</archimate:Capability>

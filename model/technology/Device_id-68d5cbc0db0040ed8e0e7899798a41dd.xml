@@ -1,0 +1,25 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Appliance Server"
+    id="id-68d5cbc0db0040ed8e0e7899798a41dd">
+  <properties
+      key="IP Address"/>
+  <properties
+      key="Purchase Date"/>
+  <properties
+      key="Server Class"/>
+  <properties
+      key="Server Platform"/>
+  <properties
+      key="Server Role"/>
+  <properties
+      key="Server Type"/>
+  <properties
+      key="Server Vendor"/>
+  <properties
+      key="Warranty Period"/>
+  <properties
+      key="Operating System"/>
+  <properties
+      key="Purchase Date"/>
+</archimate:Device>

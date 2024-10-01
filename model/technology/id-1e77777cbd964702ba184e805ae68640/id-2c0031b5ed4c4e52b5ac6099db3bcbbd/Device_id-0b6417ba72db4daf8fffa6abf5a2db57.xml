@@ -1,0 +1,19 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DR IBM XIV"
+    id="id-0b6417ba72db4daf8fffa6abf5a2db57">
+  <properties
+      key="Storage Vendor"/>
+  <properties
+      key="Storage Class"/>
+  <properties
+      key="Storage Software "/>
+  <properties
+      key="Storage Type "/>
+  <properties
+      key="IP Address"/>
+  <properties
+      key="Purchase Date"/>
+  <properties
+      key="Warranty Period"/>
+</archimate:Device>

@@ -1,0 +1,23 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="15.2.4 Software-as-a-Service"
+    id="id-5d11db19d0294ba3b9c351758198ca22">
+  <properties
+      key="Capacity Level"
+      value="L2"/>
+  <properties
+      key="Applications Mapping"/>
+  <properties
+      key="Capability Owner"
+      value="TTVHCN"/>
+  <properties
+      key="Capability_Level"/>
+  <properties
+      key="Capacity Level"/>
+  <properties
+      key="Published Author"
+      value="Thanhcx2"/>
+  <properties
+      key="Published Date"
+      value="1/1/2023"/>
+</archimate:Capability>

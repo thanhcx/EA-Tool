@@ -1,0 +1,19 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="15.2.4.3 Enterprise Integration"
+    id="id-2babd99d3f624d36bb36dcc4e68f75ee">
+  <properties
+      key="Applications Mapping"/>
+  <properties
+      key="Capability Owner"
+      value="TT VHCN"/>
+  <properties
+      key="Capacity Level"
+      value="L3"/>
+  <properties
+      key="Published Author"
+      value="Thanhcx2"/>
+  <properties
+      key="Published Date"
+      value="1/1/2023"/>
+</archimate:Capability>

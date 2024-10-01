@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="15.3.3.2.2 Scalability"
+    id="id-1a4fecd89de0414eae1a144fbafc60e4">
+  <properties
+      key="Capacity Level"
+      value="L4"/>
+</archimate:Capability>

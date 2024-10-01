@@ -1,0 +1,19 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="15.2.2.2 Security And Compliance"
+    id="id-57d84a86ba1c40b3a1e48c5d09ead619">
+  <properties
+      key="Applications Mapping"/>
+  <properties
+      key="Capability Owner"
+      value="TT VHCN"/>
+  <properties
+      key="Capacity Level"
+      value="L3"/>
+  <properties
+      key="Published Author"
+      value="Thanhcx2"/>
+  <properties
+      key="Published Date"
+      value="1/1/2023"/>
+</archimate:Capability>

@@ -1,0 +1,19 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IBM FS5030"
+    id="id-1ebe56e0d7b346bcb25d574ed396c4a4">
+  <properties
+      key="Storage Vendor"/>
+  <properties
+      key="Storage Class"/>
+  <properties
+      key="Storage Type "/>
+  <properties
+      key="Storage Software "/>
+  <properties
+      key="IP Address"/>
+  <properties
+      key="Warranty Period"/>
+  <properties
+      key="Purchase Date"/>
+</archimate:Device>

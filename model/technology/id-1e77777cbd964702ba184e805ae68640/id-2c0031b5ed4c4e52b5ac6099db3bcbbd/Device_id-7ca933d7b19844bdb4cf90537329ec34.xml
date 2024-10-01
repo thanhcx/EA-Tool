@@ -1,0 +1,19 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="New Storage"
+    id="id-7ca933d7b19844bdb4cf90537329ec34">
+  <properties
+      key="Storage Vendor"/>
+  <properties
+      key="Storage Class"/>
+  <properties
+      key="Storage Software "/>
+  <properties
+      key="Storage Type "/>
+  <properties
+      key="IP Address"/>
+  <properties
+      key="Purchase Date"/>
+  <properties
+      key="Warranty Period"/>
+</archimate:Device>

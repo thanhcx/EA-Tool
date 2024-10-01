@@ -1,0 +1,23 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DR Server N"
+    id="id-b95dab4e1d3941b19da42eeef06de441">
+  <properties
+      key="Server Vendor"/>
+  <properties
+      key="Server Class"/>
+  <properties
+      key="Server Platform"/>
+  <properties
+      key="Server Role"/>
+  <properties
+      key="Server Type"/>
+  <properties
+      key="Warranty Period"/>
+  <properties
+      key="IP Address"/>
+  <properties
+      key="Operatoring System"/>
+  <properties
+      key="Purchase Date"/>
+</archimate:Device>
