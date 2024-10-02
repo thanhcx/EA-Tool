@@ -1,8 +1,0 @@
-<archimate:Capability
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="15.3.3.2.3 Resilience"
-    id="id-916249f9b1c846068d01e25c49742deb">
-  <properties
-      key="Capacity Level"
-      value="L4"/>
-</archimate:Capability>
